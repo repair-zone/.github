@@ -1,4 +1,4 @@
-# Repair Zone 🔧
+# The Repair Zone
 
 We're a volunteer repair team that runs The Repair Zone at [Open Sauce](https://opensauce.com). We fix exhibitors' gear and attendees' projects, help people repair things themselves, lend tools, and hand out the tape, solder, and wire that keep an event running.
 
