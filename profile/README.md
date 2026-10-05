@@ -21,8 +21,6 @@ This org holds the software that helps us run the Repair Zone. Our main project 
 - **3D print queue**: tracking print jobs from request to pickup.
 - **Event map**: finding booths and dispatching the nearest available team member.
 
-It's designed to work offline, because event Wi-Fi and cell service can be fallible.
-
 ## Contributing
 
 Team members are welcome to contribute, including those who don't code and work with AI assistance. Please read a given repository's corresponding CONTRIBUTING.md before opening a pull request.
