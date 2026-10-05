@@ -6,8 +6,8 @@ We're a volunteer repair team that runs The Repair Zone at [Open Sauce](https://
 
 ## What we do at events
 
-- **We fix it**: our team repairs exhibitor equipment and attendee projects.
-- **You fix it**: assisted self-repair at our side table.
+- **We fix it**: our team repairs exhibitor, sponsor, and creator equipment and projects.
+- **You fix it**: assisted self-repair for all of the above + general attendees at our side tables.
 - **Tool checkout**: borrow the tool you need and bring it back.
 - **Consumables**: tape, solder, wire, and raw materials.
 
